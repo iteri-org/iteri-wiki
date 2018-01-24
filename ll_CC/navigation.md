@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Iteri-WIKI
 
 
 <!--
@@ -19,28 +19,35 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
+<!--
 [About](pages/about.md)
 [Download](pages/download.md)
+-->
 
 <!-- A more complex navigation example: ----------------------------------------
+-->
 
-[Menu Item 1]()
+[Einleitung]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+[Beispielanwendungen]()
+
+  * # Routensammlungen
+  * [gpsies](gpsies.md)
+  * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # Fahrradroutenplaner
+  * [komoot](komoot.md)
+  * [caminaro](caminaro.md)
   - - - -
   * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
+  * [SubMenu Item 3](subitem3.md)
 
-[Menu Item 2](pages/item2.md)
+[Konzepte](Konzepte.md)
+- - - -
+[Technologie Stack](Technologie Stack.md)
 
-[Menu Item 3](pages/item3.md)
-
----------------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------------- 
+-->
 
 <!--
   -- Change the Language
@@ -60,6 +67,5 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-<!--
-[gimmick:themechooser](Choose theme)
--->
+[gimmick:themechooser](Thema wählen)
+
